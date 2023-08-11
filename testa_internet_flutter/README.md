@@ -1,0 +1,2 @@
+Neste exemplo, utilizamos a biblioteca 'connectivity' para verificar as informações da conexão de internet no dispositivo. A classe '_MyAppState' inicia a verificação da conexão no método 'initState' utilizando o método 'checkConnectivity' da biblioteca 'Connectivity'.
+Em seguida, o estado da conexão é definido através do método 'setState'. Por fim, o resultado é exibido na tela utilizando o widget 'Text'.
